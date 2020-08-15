@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/curvesy/Monsters-rolodex34.git/static/css/main.cc1ebeb0.chunk.css",
+    "main.js": "/curvesy/Monsters-rolodex34.git/static/js/main.ea094c5e.chunk.js",
+    "main.js.map": "/curvesy/Monsters-rolodex34.git/static/js/main.ea094c5e.chunk.js.map",
+    "runtime-main.js": "/curvesy/Monsters-rolodex34.git/static/js/runtime-main.795a73de.js",
+    "runtime-main.js.map": "/curvesy/Monsters-rolodex34.git/static/js/runtime-main.795a73de.js.map",
+    "static/js/2.390247ea.chunk.js": "/curvesy/Monsters-rolodex34.git/static/js/2.390247ea.chunk.js",
+    "static/js/2.390247ea.chunk.js.map": "/curvesy/Monsters-rolodex34.git/static/js/2.390247ea.chunk.js.map",
+    "index.html": "/curvesy/Monsters-rolodex34.git/index.html",
+    "precache-manifest.7565a35cd54360955d27dd98f0c009ba.js": "/curvesy/Monsters-rolodex34.git/precache-manifest.7565a35cd54360955d27dd98f0c009ba.js",
+    "service-worker.js": "/curvesy/Monsters-rolodex34.git/service-worker.js",
+    "static/css/main.cc1ebeb0.chunk.css.map": "/curvesy/Monsters-rolodex34.git/static/css/main.cc1ebeb0.chunk.css.map",
+    "static/js/2.390247ea.chunk.js.LICENSE.txt": "/curvesy/Monsters-rolodex34.git/static/js/2.390247ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.795a73de.js",
+    "static/js/2.390247ea.chunk.js",
+    "static/css/main.cc1ebeb0.chunk.css",
+    "static/js/main.ea094c5e.chunk.js"
+  ]
+}
